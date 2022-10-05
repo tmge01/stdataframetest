@@ -1,4 +1,4 @@
-#dataframe表示テスト
+#dataframe表示テスト(確認用)
 import streamlit as st
 import pandas as pd
 df = pd.DataFrame({'国語テスト': [55, 96, 76, 82,67],
